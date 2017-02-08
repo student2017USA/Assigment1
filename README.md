@@ -1,5 +1,8 @@
-# Assigment1_last-version
-assignments1-submit
+Assisgnment-1-submit
+
+Assignment 1 - iOS Layout Fundamentals
+
+When you have completed the assignment, use the git version control program to commit your changes. Then tag your last commit with the title "assignment-1-submit" and push your commits and tags to your GitHub repository.
 
 
 update to the format Xcode 8.0 version
